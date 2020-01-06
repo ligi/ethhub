@@ -16,7 +16,7 @@ Phone and other mobile device-based wallets are mobile alternatives to desktop a
 
 ### Cons
 
-* Rely on the security of your mobile device.
+* Rely on the security of your mobile device if not used in combination with a hardware wallet.
 
 ## Wallets
 * [AlphaWallet](https://alphawallet.com/) - No nonsense ethereum wallet with native dapp support
